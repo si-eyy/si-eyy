@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1keTM1ZDE4dnJqdzVzaHM2OGpjcDg5c3k1cTB0cWVkaTNuNWptaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V69LhUggYIg6qmKUoD/giphy.gif"  />
+  <img data-importer="image" height="600" src="https://github.com/user-attachments/assets/7e6fe247-bdae-484f-8182-b0f2147cb0b3" />
 </div>
 
 ###
