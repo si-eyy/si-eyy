@@ -3,12 +3,19 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="600" src="https://github.com/user-attachments/assets/7e6fe247-bdae-484f-8182-b0f2147cb0b3" />
+  <!--
+    TODO: paste a fresh GIF link here.
+    Go to the gif on giphy.com > Copy Link > "GIF Link" (NOT the share page link).
+    It should look like: https://media.giphy.com/media/<SHORT_ID>/giphy.gif
+    The long v1.Y2lk... link currently below is a "share page" URL, which GitHub's
+    image proxy (camo) frequently fails to resolve into an actual image.
+  -->
+  <img data-importer="image" height="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1keTM1ZDE4dnJqdzVzaHM2OGpjcDg5c3k1cTB0cWVkaTNuNWptaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V69LhUggYIg6qmKUoD/giphy.gif"  />
 </div>
 
 ###
 
-<p data-importer="text" align="center">Hi! I’m Charles (he/him), a Graphic Designer, Video Editor, and Web/App Developer from the Philippines. I’m skilled in UI/UX design, drawing, and painting, and I enjoy creating clean, functional websites and apps while designing engaging visuals. My interests include art, music, and exploring new design trends</p>
+<p data-importer="text" align="center">Hi! I'm Charles (he/him), a Graphic Designer, Video Editor, and Web/App Developer from the Philippines. I'm skilled in UI/UX design, drawing, and painting, and I enjoy creating clean, functional websites and apps while designing engaging visuals. My interests include art, music, and exploring new design trends</p>
 
 ###
 
@@ -73,9 +80,15 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/si-eyy/si-eyy/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=si-eyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/si-eyy/si-eyy/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!--
+    Switched off the broken stats-output / trophy-output branch links
+    (those branches are empty or were never populated by a workflow).
+    These point at the actively-maintained public instances instead —
+    same look, zero setup required.
+  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=si-eyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" height="150" alt="streak graph" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=si-eyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
