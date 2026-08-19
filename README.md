@@ -3,13 +3,6 @@
 ###
 
 <div data-importer="image" align="center">
-  <!--
-    TODO: paste a fresh GIF link here.
-    Go to the gif on giphy.com > Copy Link > "GIF Link" (NOT the share page link).
-    It should look like: https://media.giphy.com/media/<SHORT_ID>/giphy.gif
-    The long v1.Y2lk... link currently below is a "share page" URL, which GitHub's
-    image proxy (camo) frequently fails to resolve into an actual image.
-  -->
   <img data-importer="image" height="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1keTM1ZDE4dnJqdzVzaHM2OGpjcDg5c3k1cTB0cWVkaTNuNWptaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V69LhUggYIg6qmKUoD/giphy.gif"  />
 </div>
 
