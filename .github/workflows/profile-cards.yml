@@ -30,7 +30,9 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Needs a token with read:user scope — the default GITHUB_TOKEN
+          # can't fetch user-level data (stars/followers/etc.), only repo data.
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit cards
         run: |
