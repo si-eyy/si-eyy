@@ -73,15 +73,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <!--
-    Switched off the broken stats-output / trophy-output branch links
-    (those branches are empty or were never populated by a workflow).
-    These point at the actively-maintained public instances instead —
-    same look, zero setup required.
-  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=si-eyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" height="150" alt="streak graph" /></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=si-eyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="./profile/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
