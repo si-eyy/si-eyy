@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1keTM1ZDE4dnJqdzVzaHM2OGpjcDg5c3k1cTB0cWVkaTNuNWptaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V69LhUggYIg6qmKUoD/giphy.gif"  />
+  <img data-importer="image" height="600" src="https://media.giphy.com/media/V69LhUggYIg6qmKUoD/giphy.gif"  />
 </div>
 
 ###
@@ -73,6 +73,7 @@
 ###
 
 <div data-importer="stats" align="center">
+
   <img src="./profile/stats.svg" height="150" alt="stats graph"  />
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" height="150" alt="streak graph" /></a>
   <img src="./profile/trophy.svg" height="150" alt="trophy graph"  />
