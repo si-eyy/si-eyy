@@ -2,9 +2,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://media.giphy.com/media/V69LhUggYIg6qmKUoD/giphy.gif" width="400" />
-</p>
+<div data-importer="image" align="center">  
+  <img data-importer="image" height="600" src="https://media.giphy.com/media/V69LhUggYIg6qmKUoD/giphy.gif"  />
+</div>
 
 ###
 
