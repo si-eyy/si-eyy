@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">  
-  <img data-importer="image" height="600" src="https://media.giphy.com/media/V69LhUggYIg6qmKUoD/giphy.gif"  />
+  <img data-importer="image" height="600" src="C:\Users\PC\OneDrive\Documents\si-eyy 1st\si-eyy\GIF\Explosion Fireworks GIF by Xbox.gif"  />
 </div>
 
 ###
