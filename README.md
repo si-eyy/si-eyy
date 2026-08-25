@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">  
-  <img src="./GIF/Explosion Fireworks GIF by Xbox.gif" height="600" />
+  <img src="./GIF/Explosion Fireworks GIF by Xbox.gif" height="800" />
 </div>
 
 ###
